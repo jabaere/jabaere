@@ -10,13 +10,11 @@
   }
 }
 
-.blinking-text {
-  animation: blink 1s infinite; /* Blinking animation */
-}
+
 </style>
 
 <div>
-   <p>Last project: <span class='blinking-text'><a href=''>dasdadad</a></span></p>
+   <p>Last project: <span style="animation: blink 1s infinite;"><a href=''>dasdadad</a></span></p>
 </div>
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jabaere&theme=gruvbox)](https://git.io/streak-stats)-->
