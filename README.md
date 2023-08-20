@@ -2,7 +2,7 @@
 $${\huge\color{#334da8}H\color{#5e6a85}i \space \space \color{#898763}t \color{#b4a340}h \color{#dfc01d}e \color{#b4a340}r \color{#898763}e \color{#5e6a85}! \space \space  👋}$$
 
 
-Hello, I'm Jaba, a passionate software developer who has <code style="color:orangered">fallen in love</code> with programming. Over the past <code>three years</code>, I've been deeply immersed in studying and <code>practicing</code> programming. I've also gained several months of work experience and have successfully completed multiple freelance projects.
+Hello, I'm Jaba, a software developer who has <code style="color:orangered">fallen in love</code> with programming. Over the past <code>three years</code>, I've been deeply immersed in studying and <code>practicing</code> programming. I've also gained several months of work experience and have successfully completed multiple freelance projects.
 
 ### Experience and Skillset
 
