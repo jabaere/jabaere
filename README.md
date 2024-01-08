@@ -37,7 +37,7 @@ $${\color{#dfc01d}I \space \space have \space \space experience \space \space ac
 
 I'm actively expanding my skillset and am currently learning <code>Dart</code> and <code>Flutter</code> to broaden my horizons in mobile app development.
 
-Feel free to connect with me or explore my projects. Let's discuss technology and collaborate!
+
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jabaere&theme=gruvbox)](https://git.io/streak-stats)-->
 
