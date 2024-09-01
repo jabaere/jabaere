@@ -5,8 +5,6 @@ $${\huge\color{#334da8}H\color{#5e6a85}i \space \space \color{#898763}t \color{#
 ### Experience and Skillset
 
 
-$${\color{#dfc01d}I \space \space have \space \space experience \space \space across \space \space a \space \space \color{#898763}variety \space \space of \space \space technologies:}$$
-
 **Front-End Development:**
 
 - React / React Native
